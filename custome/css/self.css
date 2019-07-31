@@ -1,0 +1,43 @@
+    .header-body{  background-image: -webkit-linear-gradient(0deg, #369464 0%, #21cace 100%);}
+    .hero-area-2 .overlay{background-image: -webkit-linear-gradient(0deg, #369464 0%, #21cace 100%);}
+    .head-title , h5 { font-size: 24; color: #fff ; margin-bottom: 30px;}
+    .lni{color: #fff;}
+    .h1,h1,h2,h3,h4,h5,h6,p,a {    font-family: roboto; color: #fff;}
+    .hero-area-2 .intro-img { padding: 80px 0 0px;}
+    .form-control {display: block;
+    width: 100%;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    text-align: left;
+  }
+  .for-link{text-align: center;    background-color: #DB4437;
+    color: #fff;
+  }
+
+
+    form{
+        border: 2px dashed;
+        padding: 5px; margin-bottom: 10px;background-color: lightgrey;}
+    .li-log{    width: 50%;
+    float: left;}
+    .ul-log{    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 20px;}
+    .lefts{    text-align: right;}
+    .in{background-color: #369464;    margin-bottom: 15px;}
+    .login{display: none;}
+    .head-poet{    height: 40px;
+    padding: 10px;
+    background-image: -webkit-linear-gradient(0deg, #369464 0%, #21cace 100%);}
+    .ome{color: lightblue;     display: block;    margin: 10px;}
+    .ome span i{color: lightblue;}
+    .profile-form{width: 100%;}
+    b {margin-bottom: 5px;}
+    .navi{    background-image: -webkit-linear-gradient(0deg, #369464 0%, #21cace 100%);}
